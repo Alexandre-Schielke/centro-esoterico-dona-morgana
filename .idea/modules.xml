@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/centro-esoterico-dona-morgana.iml" filepath="$PROJECT_DIR$/.idea/centro-esoterico-dona-morgana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../laravel-8/dona-morgana/.idea/dona-morgana.iml" filepath="$PROJECT_DIR$/../laravel-8/dona-morgana/.idea/dona-morgana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lojamorenachic/.idea/lojamorenachic.iml" filepath="$PROJECT_DIR$/../lojamorenachic/.idea/lojamorenachic.iml" />
+    </modules>
+  </component>
+</project>
